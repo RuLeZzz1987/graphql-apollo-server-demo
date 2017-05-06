@@ -31,3 +31,11 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+.idea/dictionaries
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+apollo-starter-kit.iml
